@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**dequaviousthe7th/dequaviousthe7th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student graduating soon, currently focused on building software systems and learning through hands-on development.
 
-Here are some ideas to get you started:
+Right now I'm spending most of my time on blockchain development, primarily on Solana — experimenting, building small systems, and learning how things work under real constraints.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile is where I push things I'm working on, experiments, and projects as I learn and improve.
+
+---
+
+### Current focus
+- Software engineering fundamentals
+- Blockchain development (Solana)
+- Systems thinking through real projects
+
+---
+
+### What you'll find here
+- Small to medium projects
+- Experiments and prototypes
+- Ongoing learning, not polished products (yet)
+
+Always learning, always building.
