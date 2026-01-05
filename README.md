@@ -1,23 +1,26 @@
-## Hi 👋
+## Hey there 👋
 
-I'm a Computer Science student graduating soon, currently focused on building software systems and learning through hands-on development.
+I'm a Computer Science student graduating soon, focused on building software systems and learning through hands-on development.
 
-Right now I'm spending most of my time on blockchain development, primarily on Solana — experimenting, building small systems, and learning how things work under real constraints.
+A lot of the work I do lives in private repositories, but this profile reflects the things I can share publicly — experiments, side projects, and ongoing learning.
 
-This profile is where I push things I'm working on, experiments, and projects as I learn and improve.
+Recently, I’ve been spending most of my time on blockchain development, primarily on Solana, building and experimenting under real-world constraints.
 
 ---
 
 ### Current focus
 - Software engineering fundamentals
 - Blockchain development (Solana)
-- Systems thinking through real projects
+- Learning by building real systems
 
 ---
 
-### What you'll find here
-- Small to medium projects
-- Experiments and prototypes
-- Ongoing learning, not polished products (yet)
+### Tech & tools
+- Languages: Rust, TypeScript, JavaScript
+- Blockchain: Solana
+- Tooling: Git, Node.js
+- Environment: VS Code
 
-Always learning, always building.
+---
+
+This profile is a work in progress — learning, building, and improving over time.
