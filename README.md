@@ -25,16 +25,18 @@ Computer Science student graduating soon. I build software systems that solve re
 
 ### Tech & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust"/><br><sub>Rust</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br><sub>TypeScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" width="48" height="48" alt="Solana"/><br><sub>Solana</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br><sub>Next.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br><sub>Node.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br><sub>Git</sub></td>
+  </tr>
+</table>
 
 ---
 
