@@ -10,7 +10,7 @@ Computer Science student graduating soon. I build software systems that solve re
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[SolReclaimer](https://github.com/dequaviousthe7th/sol-reclaimer)** | Zero-fee tool to reclaim SOL locked in empty token accounts. Live at [solreclaimer.net](https://solreclaimer.net) | TypeScript, Next.js |
+| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)** | Solana tools. No fees, no tracking, no compromise. Live at [soltools.net](https://soltools.net) | TypeScript, Next.js |
 | **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana keypair generator for custom vanity addresses | Rust, Node.js |
 
 ---
