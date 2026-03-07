@@ -11,6 +11,7 @@ Computer Science student graduating soon. I build software systems that solve re
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)** | Solana tools. No fees, no tracking, no compromise. Live at [soltools.net](https://soltools.net) | TypeScript, Next.js |
+| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)** | Desktop file converter with 200+ conversion paths. 100% local, no uploads | Python, CustomTkinter |
 | **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana keypair generator for custom vanity addresses | Rust, Node.js |
 
 ---
