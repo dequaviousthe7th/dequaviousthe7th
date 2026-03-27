@@ -1,46 +1,83 @@
-## About me
+## About
 
-Computer Science student graduating soon. I build software systems that solve real problems — most of my time goes into **Solana** development, working across the stack in Rust and TypeScript.
+Computer Science student graduating May 2026 from the University of Westminster, London. I build real software end to end — from Solana trading infrastructure in Rust to full-stack web apps, platforms, payment systems, and admin dashboards. Client projects and freelance work live at **[dequavious.dev](https://dequavious.dev)**.
 
-**Note:** Most of my work lives in **Private Repositories**. Below is what's public and shipped.
+> **Note:** Most of my work is in private repositories. What's listed below is either public and shipped, or private work I can speak to directly.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Freelance-Yes-00d4aa.svg"/>
+  <img src="https://img.shields.io/badge/Solana-Mainnet-9945FF.svg"/>
+  <img src="https://img.shields.io/badge/Rust-Systems%20Dev-orange.svg"/>
+  <img src="https://img.shields.io/badge/Repos-32+-blue.svg"/>
+  <img src="https://img.shields.io/badge/Contributions-900+-green.svg"/>
+</p>
 
 ---
 
-### Released
+## Released
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)** | Solana tools. No fees, no tracking, no compromise. Live at [soltools.net](https://soltools.net) | TypeScript, Next.js |
-| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)** | Desktop file converter with 200+ conversion paths. 100% local, no uploads | Python, CustomTkinter |
-| **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana keypair generator for custom vanity addresses | Rust, Node.js |
+| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)** | Free Solana toolkit — rent reclaimer, token scanner, wallet X-Ray, and vanity generator. Zero fees, non-custodial. Live at [soltools.net](https://soltools.net) | TypeScript, Next.js, Rust, WASM |
+| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)** | Desktop file converter with 200+ conversion paths across documents, images, audio and video. 100% local, no uploads. | Python, CustomTkinter, ffmpeg |
+| **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana keypair generator for custom vanity addresses using parallel computation. | Rust, Node.js |
 
 ---
 
-### Tech & Tools
+## Private Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Pulse** | Solana trading system — multiple strategies across PumpSwap AMM and bonding curves, plus a copy trading bot. Built in Rust with a React dashboard. | Rust, React, Solana, PostgreSQL |
+| **Helm** | A private tool built around the client side of development work. First deployments currently in progress. Full details kept private. | TypeScript, React, Express, PostgreSQL, Prisma |
+
+---
+
+## Tech & Tools
 
 <table>
   <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust"/><br><sub>Rust</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br><sub>TypeScript</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br><sub>JavaScript</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br><sub>Python</sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" width="48" height="48" alt="Solana"/><br><sub>Solana</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br><sub>Next.js</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br><sub>Node.js</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rust" width="48" height="48"/><br><sub>Rust</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/><br><sub>TypeScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br><sub>JavaScript</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br><sub>Python</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br><sub>React</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/><br><sub>Next.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br><sub>Node.js</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br><sub>Express</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48"/><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48"/><br><sub>Prisma</sub></td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" width="48" height="48"/><br><sub>Solana</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br><sub>Tailwind</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br><sub>Linux</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br><sub>Git</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br><sub>VS Code</sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wasm" width="48" height="48"/><br><sub>WASM</sub></td>
   </tr>
 </table>
 
 ---
 
-### Current focus
+## What I Build
 
-- Shipping production software on Solana
-- Systems programming in Rust
-- On-chain programs, client libraries, infrastructure tooling
+- Full-stack web apps, platforms & marketplaces
+- Payment & billing systems — Stripe, subscriptions, escrow
+- Admin panels, CMS & dashboards
+- REST APIs & database architecture
+- Trading bots, automation & Discord bots
+- Solana infrastructure — on-chain tools, gRPC feeds, Jito MEV
 
 ---
 
-<p align="center">
-  <i>Building, learning, improving.</i>
-</p>
+## Currently
+
+- Running **Pulse** — live Solana trading system in Rust with real-time gRPC infrastructure
+- Growing **SolTools** — free non-custodial Solana tools with a real user base
+- Taking on client projects through **[dequavious.dev](https://dequavious.dev)**
+- Deploying **Helm** — first client deployments in progress
+
+---
+
+<p align="center"><i>Building, shipping, improving.</i></p>
