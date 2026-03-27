@@ -47,9 +47,9 @@ Client projects and freelance work live at **[dequavious.dev](https://dequavious
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)** | Free Solana toolkit — rent reclaimer, token scanner, wallet X-Ray, and vanity generator. Zero fees, non-custodial. Live at [soltools.net](https://soltools.net) | TypeScript, Next.js, Rust, WASM |
-| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)** | Desktop file converter with 200+ conversion paths across documents, images, audio and video. 100% local, no uploads. | Python, CustomTkinter, ffmpeg |
-| **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana keypair generator for custom vanity addresses using parallel computation. | Rust, Node.js |
+| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)** | Free Solana toolkit — 6 tools, zero fees, non-custodial. Live at [soltools.net](https://soltools.net) | TypeScript, Next.js, Rust, WASM |
+| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)** | Desktop file converter — 200+ conversion paths. 100% local, no uploads. | Python, CustomTkinter, ffmpeg |
+| **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana vanity address generator. | Rust, Node.js |
 
 ---
 
@@ -57,7 +57,7 @@ Client projects and freelance work live at **[dequavious.dev](https://dequavious
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Pulse** | Solana trading system — multiple strategies across PumpSwap AMM and bonding curves, plus a copy trading bot. Built in Rust with a React dashboard. | Rust, React, Solana, PostgreSQL |
+| **Pulse** | High-performance Solana trading system. Multiple strategies, copy trading bot, built in Rust. | Rust, React, Solana, PostgreSQL |
 | **Helm** | A private tool built around the client side of development work. First deployments currently in progress. Full details kept private. | TypeScript, React, Express, PostgreSQL, Prisma |
 
 ---
