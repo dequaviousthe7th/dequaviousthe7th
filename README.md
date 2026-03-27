@@ -1,9 +1,3 @@
-## About
-
-Computer Science student graduating May 2026 from the University of Westminster, London. I build real software end to end — from Solana trading infrastructure in Rust to full-stack web apps, platforms, payment systems, and admin dashboards. Client projects and freelance work live at **[dequavious.dev](https://dequavious.dev)**.
-
-> **Note:** Most of my work is in private repositories. What's listed below is either public and shipped, or private work I can speak to directly.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Freelance-Yes-00d4aa.svg"/>
   <img src="https://img.shields.io/badge/Solana-Mainnet-9945FF.svg"/>
@@ -12,24 +6,11 @@ Computer Science student graduating May 2026 from the University of Westminster,
   <img src="https://img.shields.io/badge/Contributions-900+-green.svg"/>
 </p>
 
----
+## About
 
-## Released
+Computer Science student graduating May 2026 from the University of Westminster, London. I build real software end to end — from Solana trading infrastructure in Rust to full-stack web apps, platforms, payment systems, and admin dashboards. Client projects and freelance work live at **[dequavious.dev](https://dequavious.dev)**.
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)** | Free Solana toolkit — rent reclaimer, token scanner, wallet X-Ray, and vanity generator. Zero fees, non-custodial. Live at [soltools.net](https://soltools.net) | TypeScript, Next.js, Rust, WASM |
-| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)** | Desktop file converter with 200+ conversion paths across documents, images, audio and video. 100% local, no uploads. | Python, CustomTkinter, ffmpeg |
-| **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana keypair generator for custom vanity addresses using parallel computation. | Rust, Node.js |
-
----
-
-## Private Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Pulse** | Solana trading system — multiple strategies across PumpSwap AMM and bonding curves, plus a copy trading bot. Built in Rust with a React dashboard. | Rust, React, Solana, PostgreSQL |
-| **Helm** | A private tool built around the client side of development work. First deployments currently in progress. Full details kept private. | TypeScript, React, Express, PostgreSQL, Prisma |
+> **Note:** Most of my work is in private repositories. What's listed below is either public and shipped, or private work I can speak to directly.
 
 ---
 
@@ -60,6 +41,25 @@ Computer Science student graduating May 2026 from the University of Westminster,
 
 ---
 
+## Released
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)** | Free Solana toolkit — rent reclaimer, token scanner, wallet X-Ray, and vanity generator. Zero fees, non-custodial. Live at [soltools.net](https://soltools.net) | TypeScript, Next.js, Rust, WASM |
+| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)** | Desktop file converter with 200+ conversion paths across documents, images, audio and video. 100% local, no uploads. | Python, CustomTkinter, ffmpeg |
+| **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana keypair generator for custom vanity addresses using parallel computation. | Rust, Node.js |
+
+---
+
+## Private Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Pulse** | Solana trading system — multiple strategies across PumpSwap AMM and bonding curves, plus a copy trading bot. Built in Rust with a React dashboard. | Rust, React, Solana, PostgreSQL |
+| **Helm** | A private tool built around the client side of development work. First deployments currently in progress. Full details kept private. | TypeScript, React, Express, PostgreSQL, Prisma |
+
+---
+
 ## What I Build
 
 - Full-stack web apps, platforms & marketplaces
@@ -68,15 +68,6 @@ Computer Science student graduating May 2026 from the University of Westminster,
 - REST APIs & database architecture
 - Trading bots, automation & Discord bots
 - Solana infrastructure — on-chain tools, gRPC feeds, Jito MEV
-
----
-
-## Currently
-
-- Running **Pulse** — live Solana trading system in Rust with real-time gRPC infrastructure
-- Growing **SolTools** — free non-custodial Solana tools with a real user base
-- Taking on client projects through **[dequavious.dev](https://dequavious.dev)**
-- Deploying **Helm** — first client deployments in progress
 
 ---
 
