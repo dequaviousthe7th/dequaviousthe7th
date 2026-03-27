@@ -8,7 +8,9 @@
 
 ## About
 
-Computer Science student graduating May 2026 from the University of Westminster, London. I build real software end to end — from Solana trading infrastructure in Rust to full-stack web apps, platforms, payment systems, and admin dashboards. Client projects and freelance work live at **[dequavious.dev](https://dequavious.dev)**.
+Computer Science student graduating May 2026 from the University of Westminster, London. I build real software end to end — from Solana trading infrastructure in Rust to full-stack web apps, platforms, payment systems, and admin dashboards.
+
+Client projects and freelance work live at **[dequavious.dev](https://dequavious.dev)**.
 
 > **Note:** Most of my work is in private repositories. What's listed below is either public and shipped, or private work I can speak to directly.
 
