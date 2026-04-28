@@ -55,10 +55,10 @@ Client projects and freelance work live at **[dequavious.dev](https://dequavious
 
 ## Private Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Pulse** | High-performance Solana trading system. Multiple strategies, copy trading bot, built in Rust. | Rust, React, Solana, PostgreSQL |
-| **Helm** | A private tool built around the client side of development work. First deployments currently in progress. Full details kept private. | TypeScript, React, Express, PostgreSQL, Prisma |
+| Project | Description |
+|---------|-------------|
+| **Pulse** | High-performance Solana trading system. Multiple strategies, copy trading bot, built in Rust. |
+| **Helm** | A private tool built around the client side of development work. First deployments currently in progress. Full details kept private. |
 
 ---
 
