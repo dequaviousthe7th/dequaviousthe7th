@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Solana-Mainnet-9945FF.svg"/>
   <img src="https://img.shields.io/badge/Rust-Systems%20Dev-orange.svg"/>
   <img src="https://img.shields.io/badge/Repos-32+-blue.svg"/>
-  <img src="https://img.shields.io/badge/Contributions-1500+-green.svg"/>
+  <img src="https://img.shields.io/badge/Contributions-1600+-green.svg"/>
 </p>
 
 ## About
