@@ -2,8 +2,8 @@
   <img src="https://img.shields.io/badge/Open%20to%20Freelance-Yes-00d4aa.svg"/>
   <img src="https://img.shields.io/badge/Solana-Mainnet-9945FF.svg"/>
   <img src="https://img.shields.io/badge/Rust-Systems%20Dev-orange.svg"/>
-  <img src="https://img.shields.io/badge/Repos-32+-blue.svg"/>
-  <img src="https://img.shields.io/badge/Contributions-2200+-green.svg"/>
+  <img src="https://img.shields.io/badge/Repos-30+-blue.svg"/>
+  <img src="https://img.shields.io/badge/Contributions-2300+-green.svg"/>
 </p>
 
 ## About
