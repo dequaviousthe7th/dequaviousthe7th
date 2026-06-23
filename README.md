@@ -62,15 +62,5 @@ Client projects and freelance work live at **[dequavious.dev](https://dequavious
 
 ---
 
-## What I Build
-
-- Full-stack web apps, platforms & marketplaces
-- Payment & billing systems — Stripe, subscriptions, escrow
-- Admin panels & dashboards
-- REST APIs & database architecture
-- Trading bots, automation & Discord bots
-- Solana infrastructure — on-chain tools, gRPC feeds, Jito MEV
-
----
 
 <p align="center"><i>Building, shipping, improving.</i></p>
