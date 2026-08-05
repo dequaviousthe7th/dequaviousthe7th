@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-Helm-00d4aa.svg"/>
+  <img src="https://img.shields.io/badge/Founder-Helm-1f2937.svg"/>
   <img src="https://img.shields.io/badge/Open%20to%20Freelance-Yes-00d4aa.svg"/>
   <img src="https://img.shields.io/badge/Solana-Programs%20%26%20Infrastructure-9945FF.svg"/>
   <img src="https://img.shields.io/badge/Rust-Systems%20Development-orange.svg"/>
