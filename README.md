@@ -1,14 +1,17 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/Founder-Helm-00d4aa.svg"/>
   <img src="https://img.shields.io/badge/Open%20to%20Freelance-Yes-00d4aa.svg"/>
-  <img src="https://img.shields.io/badge/Solana-Mainnet-9945FF.svg"/>
-  <img src="https://img.shields.io/badge/Rust-Systems%20Dev-orange.svg"/>
+  <img src="https://img.shields.io/badge/Solana-Programs%20%26%20Infrastructure-9945FF.svg"/>
+  <img src="https://img.shields.io/badge/Rust-Systems%20Development-orange.svg"/>
   <img src="https://img.shields.io/badge/Repos-40+-blue.svg"/>
   <img src="https://img.shields.io/badge/Contributions-5600+-green.svg"/>
 </p>
 
 ## About
 
-Computer Science Graduate, 2026 from the University of Westminster, London. I build real software end to end, from Solana trading infrastructure in Rust to full-stack web apps, SaaS platforms, payment systems, and admin dashboards.
+Computer Science Graduate, 2026 from the University of Westminster, London. Founder and developer of **[Helm](https://usehelm.host)**, a platform for managing a business's website and online operations from one place.
+
+I build real software end to end, from full-stack SaaS platforms and cross-platform desktop applications to Solana trading infrastructure in Rust.
 
 Client projects and freelance work live at **[dequavious.dev](https://dequavious.dev)**.
 
@@ -45,20 +48,34 @@ Client projects and freelance work live at **[dequavious.dev](https://dequavious
 
 ## Released
 
-| Project                                                                                    | Description                                                                                                                                                                                                                                                | Stack                           |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| **[Helm](https://usehelm.host)**                                                           | A secure platform for building, managing, and understanding a business online. Helm brings websites, customers, bookings, loyalty, analytics, SEO, courses, community, and other business operations into one connected dashboard. | Full-stack SaaS platform        |
-| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)**                          | Free Solana toolkit with six non-custodial tools and zero platform fees. Live at [soltools.net](https://soltools.net).                                                                                                                                     | TypeScript, Next.js, Rust, WASM |
-| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)**               | Desktop file converter supporting more than 200 conversion paths. Runs entirely locally with no file uploads.                                                                                                                                              | Python, CustomTkinter, FFmpeg   |
-| **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana vanity address generator.                                                                                                                                                                                                          | Rust, Node.js                   |
+| Project                                                                                    | Description                                                                                                                                                                                                                                           | Stack                                    |
+| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **[Helm](https://usehelm.host)**                                                           | A secure platform for building, managing, and understanding a business online. Helm connects websites, customers, bookings, loyalty, analytics, SEO, courses, community, and other business operations through one dashboard. Source code is private. | TypeScript, Next.js, Node.js, PostgreSQL |
+| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)**                          | Free Solana toolkit with six non-custodial tools and zero platform fees. Live at **[soltools.net](https://soltools.net)**.                                                                                                                            | TypeScript, Next.js, Rust, WASM          |
+| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)**               | Cross-platform desktop converter with 158 local conversion paths across documents, images, audio, video, spreadsheets, and configuration files. Signed releases for Windows and macOS, Linux packages, no uploads, telemetry, or cloud processing.    | Rust, Tauri 2, FFmpeg, Pandoc            |
+| **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana vanity address generator.                                                                                                                                                                                                     | Rust, Node.js                            |
 
 ---
 
-## Private Projects
+## Currently Building
+
+* Expanding **[Helm](https://usehelm.host)** with additional business-management modules, platform infrastructure, and customer-facing systems.
+* Building private high-performance Solana trading infrastructure and automated strategies in Rust.
+* Maintaining and improving **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)** across Windows, macOS, and Linux.
+
+---
+
+## Selected Private Work
 
 | Project   | Description                                                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------------------- |
 | **Pulse** | High-performance Solana trading system with multiple strategies and copy-trading infrastructure, built primarily in Rust. |
+
+---
+
+## Contact
+
+For freelance work, product development, or technical collaboration, visit **[dequavious.dev](https://dequavious.dev)**.
 
 ---
 
