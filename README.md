@@ -57,14 +57,6 @@ Client projects and freelance work live at **[dequavious.dev](https://dequavious
 
 ---
 
-## Currently Building
-
-* Expanding **[Helm](https://usehelm.host)** with additional business-management modules, platform infrastructure, and customer-facing systems.
-* Building private high-performance Solana trading infrastructure and automated strategies in Rust.
-* Maintaining and improving **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)** across Windows, macOS, and Linux.
-
----
-
 ## Selected Private Work
 
 | Project   | Description                                                                                                               |
