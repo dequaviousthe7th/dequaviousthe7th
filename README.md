@@ -8,11 +8,11 @@
 
 ## About
 
-Computer Science Graduate, 2026 from the University of Westminster, London. I build real software end to end — from Solana trading infrastructure in Rust to full-stack web apps, platforms, payment systems, and admin dashboards.
+Computer Science Graduate, 2026 from the University of Westminster, London. I build real software end to end, from Solana trading infrastructure in Rust to full-stack web apps, SaaS platforms, payment systems, and admin dashboards.
 
 Client projects and freelance work live at **[dequavious.dev](https://dequavious.dev)**.
 
-> **Note:** Most of my work is in private repositories. What's listed below is either public and shipped, or private work I can speak to directly.
+> **Note:** Most of my work is in private repositories. The projects below are either publicly released products or private systems I can speak about directly.
 
 ---
 
@@ -45,22 +45,21 @@ Client projects and freelance work live at **[dequavious.dev](https://dequavious
 
 ## Released
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)** | Free Solana toolkit — 6 tools, zero fees, non-custodial. Live at [soltools.net](https://soltools.net) | TypeScript, Next.js, Rust, WASM |
-| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)** | Desktop file converter — 200+ conversion paths. 100% local, no uploads. | Python, CustomTkinter, ffmpeg |
-| **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana vanity address generator. | Rust, Node.js |
+| Project                                                                                    | Description                                                                                                                                                                                                                                                | Stack                           |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **[Helm](https://usehelm.host)**                                                           | A secure platform for building, managing, and understanding a business online. Helm brings websites, customers, bookings, loyalty, analytics, SEO, courses, community, and other business operations into one connected dashboard. Source code is private. | Full-stack SaaS platform        |
+| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)**                          | Free Solana toolkit with six non-custodial tools and zero platform fees. Live at [soltools.net](https://soltools.net).                                                                                                                                     | TypeScript, Next.js, Rust, WASM |
+| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)**               | Desktop file converter supporting more than 200 conversion paths. Runs entirely locally with no file uploads.                                                                                                                                              | Python, CustomTkinter, FFmpeg   |
+| **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana vanity address generator.                                                                                                                                                                                                          | Rust, Node.js                   |
 
 ---
 
 ## Private Projects
 
-| Project | Description |
-|---------|-------------|
-| **Pulse** | High-performance Solana trading system. Multiple strategies, copy trading bot, built in Rust. |
-| **Helm** | A private tool built around the client side of development work. First deployments currently in progress. Full details kept private. |
+| Project   | Description                                                                                                               |
+| --------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Pulse** | High-performance Solana trading system with multiple strategies and copy-trading infrastructure, built primarily in Rust. |
 
 ---
-
 
 <p align="center"><i>Building, shipping, improving.</i></p>
