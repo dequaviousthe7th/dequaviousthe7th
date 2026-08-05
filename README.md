@@ -61,6 +61,7 @@ Client projects and freelance work live at **[dequavious.dev](https://dequavious
 
 | Project   | Description                                                                                                               |
 | --------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Bifröst** | Private multi-agent coordination platform. |
 | **Pulse** | High-performance Solana trading system with multiple strategies and copy-trading infrastructure, built primarily in Rust. |
 
 ---
