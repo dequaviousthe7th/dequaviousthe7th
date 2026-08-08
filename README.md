@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Solana-Programs%20%26%20Infrastructure-9945FF.svg"/>
   <img src="https://img.shields.io/badge/Rust-Systems%20Development-orange.svg"/>
   <img src="https://img.shields.io/badge/Repos-40+-blue.svg"/>
-  <img src="https://img.shields.io/badge/Contributions-5700+-green.svg"/>
+  <img src="https://img.shields.io/badge/Contributions-5800+-green.svg"/>
 </p>
 
 ## About
