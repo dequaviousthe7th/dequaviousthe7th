@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Solana-Programs%20%26%20Infrastructure-9945FF.svg"/>
   <img src="https://img.shields.io/badge/Rust-Systems%20Development-orange.svg"/>
   <img src="https://img.shields.io/badge/Repos-40+-blue.svg"/>
-  <img src="https://img.shields.io/badge/Contributions-7000+-green.svg"/>
+  <img src="https://img.shields.io/badge/Contributions-7100+-green.svg"/>
 </p>
 
 ## About
@@ -53,7 +53,7 @@ Client projects and freelance work live at **[dequavious.dev](https://dequavious
 | **[Helm](https://usehelm.host)**                                                           | A secure platform for building, managing, and understanding a business online. Helm connects websites, customers, bookings, loyalty, analytics, SEO, courses, community, and other business operations through one dashboard. | TypeScript, Next.js, Node.js, PostgreSQL |
 | **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)**                          | Free Solana toolkit with six non-custodial tools and zero platform fees. Live at **[soltools.net](https://soltools.net)**.                                                                                                                            | TypeScript, Next.js, Rust, WASM          |
 | **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)**               | Cross-platform desktop converter with 158 local conversion paths across documents, images, audio, video, spreadsheets, and configuration files. Signed releases for Windows and macOS, Linux packages, no uploads, telemetry, or cloud processing.    | Rust, Tauri 2, FFmpeg, Pandoc            |
-| **[Vanity Wallet Generator](https://github.com/dequaviousthe7th/vanity-wallet-generator)** | High-performance Solana vanity address generator.                                                                                                                                                                                                     | Rust, Node.js                            |
+
 
 ---
 
