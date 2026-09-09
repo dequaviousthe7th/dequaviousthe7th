@@ -9,7 +9,7 @@
 
 ## About
 
-Khaled Jamal, Computer Science Graduate, 2026 from the University of Westminster, London. Founder and developer of **[Helm](https://usehelm.host)**, a platform for managing a business's website and online operations from one place.
+Khaled Jamal, Computer Science Graduate, 2026 from the University of Westminster, London. Founder and developer of **(@Helm-Business-Platform)**, a platform for managing a business's website and online operations from one place.
 
 I build real software end to end, from full-stack SaaS platforms and cross-platform desktop applications to Solana trading infrastructure in Rust.
 
