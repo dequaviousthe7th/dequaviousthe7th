@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dequavious.dev">
+  <a href="https://khaledjamal.dev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/img/banner-dark.svg">
       <img alt="Khaled Jamal. Software engineer and founder of Helm." src="assets/img/banner-light.svg" width="100%">
@@ -13,12 +13,12 @@
 </p>
 
 <p align="center">
-  <a href="https://dequavious.dev"><b>Portfolio/Website</b></a> &nbsp;·&nbsp;
+  <a href="https://khaledjamal.dev"><b>Portfolio/Website</b></a> &nbsp;·&nbsp;
   <a href="https://usehelm.host"><b>Helm</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/khaled-jamal"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://x.com/dequavious7th"><b>X</b></a> &nbsp;·&nbsp;
   <a href="https://www.crunchbase.com/person/khaled-jamal-7a6a"><b>Crunchbase</b></a> &nbsp;·&nbsp;
-  <a href="https://dequavious.dev/start-a-project"><b>Start a project</b></a>
+  <a href="https://khaledjamal.dev/start-a-project"><b>Start a project</b></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 <h3 align="center">What else I build</h3>
 
 <p align="center">
-  <a href="https://dequavious.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/bifrost-dark.svg"><img alt="Bifröst: my own team of AI coding agents." src="assets/img/bifrost-light.svg" width="49%"></picture></a>
+  <a href="https://khaledjamal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/bifrost-dark.svg"><img alt="Bifröst: my own team of AI coding agents." src="assets/img/bifrost-light.svg" width="49%"></picture></a>
   <a href="https://github.com/PulseAgenticTrader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/pulse-dark.svg"><img alt="Pulse: automated trading on Solana, built evidence first." src="assets/img/pulse-light.svg" width="49%"></picture></a>
 </p>
 <p align="center">
@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <b>Got something to build?</b> <a href="https://dequavious.dev/start-a-project">Tell me about it</a>, and you'll have a fixed price and a date within 24 hours.
+  <b>Got something to build?</b> <a href="https://khaledjamal.dev/start-a-project">Tell me about it</a>, and you'll have a fixed price and a date within 24 hours.
 </p>
 
 <p align="center">
