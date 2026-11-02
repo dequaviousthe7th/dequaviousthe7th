@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dequavious.dev"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://dequavious.dev"><b>Portfolio/Website</b></a> &nbsp;·&nbsp;
   <a href="https://usehelm.host"><b>Helm</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/khaled-jamal"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://x.com/dequavious7th"><b>X</b></a> &nbsp;·&nbsp;
