@@ -1,0 +1,23 @@
+name: Redraw the banner
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  redraw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: node assets/build.mjs
+      - run: |
+          git add assets
+          git diff --cached --quiet && exit 0
+          git config user.name "dequaviousthe7th"
+          git config user.email "246847598+dequaviousthe7th@users.noreply.github.com"
+          git commit -m "redraw the banner from today's activity"
+          git push
