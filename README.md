@@ -46,7 +46,7 @@
   <a href="https://github.com/PulseAgenticTrader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/pulse-dark.svg"><img alt="Pulse: automated trading on Solana, built evidence first." src="assets/img/pulse-light.svg" width="49%"></picture></a>
 </p>
 <p align="center">
-  <a href="https://soltools.net"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/soltools-dark.svg"><img alt="SolTools: free, verifiable Solana tools." src="assets/img/soltools-light.svg" width="49%"></picture></a>
+  <a href="https://soltools.net"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/soltools-dark.svg"><img alt="SolTools: verifiable Solana tools with no platform fees." src="assets/img/soltools-light.svg" width="49%"></picture></a>
   <a href="https://github.com/dequaviousthe7th/file-converter-pro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/file-converter-dark.svg"><img alt="File Converter Pro: a desktop converter with 158 local conversion paths." src="assets/img/file-converter-light.svg" width="49%"></picture></a>
 </p>
 <p align="center">
