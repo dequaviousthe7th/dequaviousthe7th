@@ -1,75 +1,86 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-Helm-1f2937.svg"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Freelance-Yes-00d4aa.svg"/>
-  <img src="https://img.shields.io/badge/Solana-Programs%20%26%20Infrastructure-9945FF.svg"/>
-  <img src="https://img.shields.io/badge/Rust-Systems%20Development-orange.svg"/>
-  <img src="https://img.shields.io/badge/Repos-40+-blue.svg"/>
-  <img src="https://img.shields.io/badge/Contributions-12400+-green.svg"/>
+  <a href="https://dequavious.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/img/banner-dark.svg">
+      <img alt="Khaled Jamal. Software engineer and founder of Helm." src="assets/img/banner-light.svg" width="100%">
+    </picture>
+  </a>
 </p>
 
-## About
+<p align="center">
+  <b>I build products end to end, then I run them.</b><br>
+  Known online as Dequavious. Computer Science, University of Westminster, London.
+</p>
 
-Khaled Jamal, Computer Science Graduate, 2026 from the University of Westminster, London. Founder and developer of **[Helm](https://usehelm.host)**, a platform for managing a business's website and online operations from one place.
+<p align="center">
+  <a href="https://dequavious.dev"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://usehelm.host"><b>Helm</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/khaled-jamal"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/dequavious7th"><b>X</b></a> &nbsp;·&nbsp;
+  <a href="https://www.crunchbase.com/person/khaled-jamal-7a6a"><b>Crunchbase</b></a> &nbsp;·&nbsp;
+  <a href="https://dequavious.dev/start-a-project"><b>Start a project</b></a>
+</p>
 
-I build real software end to end, from full-stack SaaS platforms and cross-platform desktop applications to Solana trading infrastructure in Rust.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/img/divider-dark.svg">
+    <img alt="" src="assets/img/divider-light.svg" width="100%">
+  </picture>
+</p>
 
-Client projects and freelance work live at **[dequavious.dev](https://dequavious.dev)**.
+<h3 align="center">What I run</h3>
 
-> **Note:** Most of my work is in private repositories. The projects below are either publicly released products or private systems I can speak about directly.
+<p align="center">
+  <a href="https://usehelm.host">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/img/helm-dark.svg">
+      <img alt="Helm: the software a small business runs on. 10+ paying businesses, 23 modules, English and Arabic." src="assets/img/helm-light.svg" width="100%">
+    </picture>
+  </a>
+</p>
 
----
+<h3 align="center">What else I build</h3>
 
-## Tech & Tools
+<p align="center">
+  <a href="https://dequavious.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/bifrost-dark.svg"><img alt="Bifröst: my own team of AI coding agents." src="assets/img/bifrost-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/PulseAgenticTrader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/pulse-dark.svg"><img alt="Pulse: automated trading on Solana, built evidence first." src="assets/img/pulse-light.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://soltools.net"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/soltools-dark.svg"><img alt="SolTools: free, verifiable Solana tools." src="assets/img/soltools-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/dequaviousthe7th/file-converter-pro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/file-converter-dark.svg"><img alt="File Converter Pro: a desktop converter with 158 local conversion paths." src="assets/img/file-converter-light.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://thetrencher.wtf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/trencher-dark.svg"><img alt="The Trencher: a satirical roguelike about the Solana trenches." src="assets/img/trencher-light.svg" width="49%"></picture></a>
+  <a href="https://gossima.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/gossima-dark.svg"><img alt="Gossima: you play, it keeps score." src="assets/img/gossima-light.svg" width="49%"></picture></a>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=rust" width="48" height="48"/><br><sub>Rust</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/><br><sub>TypeScript</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br><sub>JavaScript</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br><sub>Python</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br><sub>React</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/><br><sub>Next.js</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br><sub>Node.js</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br><sub>Express</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48"/><br><sub>PostgreSQL</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=prisma" width="48" height="48"/><br><sub>Prisma</sub></td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" width="48" height="48"/><br><sub>Solana</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br><sub>Tailwind</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br><sub>Linux</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br><sub>Git</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br><sub>VS Code</sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wasm" width="48" height="48"/><br><sub>WASM</sub></td>
-  </tr>
-</table>
+<h3 align="center">Built for clients</h3>
 
----
+<p align="center">
+  <a href="https://croffee.cafe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/croffee-dark.svg"><img alt="Croffee: a croffle and specialty coffee spot in Beirut." src="assets/img/croffee-light.svg" width="49%"></picture></a>
+  <a href="https://kagedproduction.co"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/img/kaged-dark.svg"><img alt="Kaged Production: a creative and film production team in Beirut." src="assets/img/kaged-light.svg" width="49%"></picture></a>
+</p>
 
-## Released
+<h3 align="center">What I build with</h3>
 
-| Project                                                                                    | Description                                                                                                                                                                                                                                           | Stack                                    |
-| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| **[Helm](https://usehelm.host)**                                                           | A secure platform for building, managing, and understanding a business online. Helm connects websites, customers, bookings, loyalty, analytics, SEO, courses, community, and other business operations through one dashboard. | TypeScript, Next.js, Node.js, PostgreSQL |
-| **[SolTools](https://github.com/dequaviousthe7th/sol-reclaimer)**                          | Free Solana toolkit with six non-custodial tools and zero platform fees. Live at **[soltools.net](https://soltools.net)**.                                                                                                                            | TypeScript, Next.js, Rust, WASM          |
-| **[File Converter Pro](https://github.com/dequaviousthe7th/File-Converter)**               | Cross-platform desktop converter with 158 local conversion paths across documents, images, audio, video, spreadsheets, and configuration files. Signed releases for Windows and macOS, Linux packages, no uploads, telemetry, or cloud processing.    | Rust, Tauri 2, FFmpeg, Pandoc            |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/img/stack-dark.svg">
+    <img alt="TypeScript, JavaScript, Rust, Python, Swift, React, Next.js, Node.js, Claude, PostgreSQL, Redis, Cloudflare, Linux, Docker, Solana and more." src="assets/img/stack-light.svg" width="100%">
+  </picture>
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/img/divider-dark.svg">
+    <img alt="" src="assets/img/divider-light.svg" width="100%">
+  </picture>
+</p>
 
----
+<p align="center">
+  <b>Got something to build?</b> <a href="https://dequavious.dev/start-a-project">Tell me about it</a>, and you'll have a fixed price and a date within 24 hours.
+</p>
 
-## Selected Private Work
-
-| Project   | Description                                                                                                               |
-| --------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **Bifröst** | Private multi-agent coordination platform. |
-| **Pulse** | High-performance Solana trading system with multiple strategies and copy-trading infrastructure, built primarily in Rust. |
-
----
-
-## Contact
-
-For freelance work, product development, or technical collaboration, visit **[dequavious.dev](https://dequavious.dev)**.
-
----
-
-<p align="center"><i>Building, shipping, improving.</i></p>
+<p align="center">
+  <sub>Most of my code is private, so this page shows what it became. The banner redraws itself from my real activity every day.</sub>
+</p>
